@@ -53,6 +53,7 @@ merge_package https://github.com/jerrykuku/lua-maxminddb
 merge_package https://github.com/jerrykuku/luci-app-vssr
 merge_package https://github.com/kongfl888/luci-app-adguardhome
 merge_package https://github.com/nickilchen/luci-app-socat
+merge_package https://github.com/zzsj0928/luci-app-pushbot
 drop_package luci-app-cd8021x
 drop_package luci-app-cifs
 drop_package verysync
